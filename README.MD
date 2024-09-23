@@ -9,6 +9,8 @@
 5. cari file chrome.exe di laptopmu kemudian paste path nya
 contoh: "C:\Users\ASUS\AppData\Local\Google\Chrome\Application\chrome.exe"
 
+jangan lupa ganti garis \ di path file menjadi /
+
 6. save lalu jalankan script dengan mengetik node index.mjs
 
 jika kalian belum mempunyai node.js silahkan buka https://nodejs.org/en dan download filenya
