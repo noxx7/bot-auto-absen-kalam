@@ -39,7 +39,7 @@ function handleMenuSelection(option) {
 
 async function autoAbsen() {
     const browser = await puppeteer.launch({
-        executablePath: "C:/Users/ASUS/AppData/Local/Google/Chrome/Application/chrome.exe",
+        executablePath: "path here",
         headless: false
     })
     const page = await browser.newPage();
