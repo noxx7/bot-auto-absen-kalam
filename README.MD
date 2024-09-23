@@ -6,7 +6,7 @@
 
 3. buka index.mjs kemudian cari executablepath
 4. cari file chrome.exe di laptopmu kemudian paste path nya
-contoh: "C:\Users\ASUS\AppData\Local\Google\Chrome\Application\chrome.exe"
+contoh: executablePath: "C:\Users\ASUS\AppData\Local\Google\Chrome\Application\chrome.exe"
 
 jangan lupa ganti garis \ di path file menjadi /
 
